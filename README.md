@@ -4,7 +4,7 @@
 
 ## 一键部署
 
-[![](https://res.vekun.com/uploads/default-1684132897262.svg)](https://dash.deno.com/new?url=https://github.com/whisper540/deno-proxy/master/proxy.ts)
+[![](https://res.vekun.com/uploads/default-1684132897262.svg)](https://dash.deno.com/new?url=https://github.com/whisper540/deno-proxy/blob/master/proxy.ts)
 
 ## 调用示例
 
