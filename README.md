@@ -4,14 +4,14 @@
 
 ## 一键部署
 
-[![](https://res.vekun.com/uploads/default-1684132897262.svg)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/wenyikun/deno-proxy/master/proxy.ts)
+[![](https://res.vekun.com/uploads/default-1684132897262.svg)](https://dash.deno.com/new?url=https://github.com/whisper540/deno-proxy/master/proxy.ts)
 
 ## 调用示例
 
 ```js
 const axios = require('axios')
 
-axios.post("https://xxx.deno.dev/v1/chat/completions", {
+axios.post("https://open-ai.deno.dev/v1/chat/completions", {
   "model": "gpt-3.5-turbo",
   "messages": [{ "role": "user", "content": "Hello!" }],
   "stream": true
